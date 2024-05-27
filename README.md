@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @FroehlingsdorfJonas
-- 👀 I’m interested in QA and Automation
-- 🌱 I’m currently learning JS with CSS and HTML
+- 👀 I work as a Consultant in Software Testing
+- 🌱 I’m currently learning HTML, CSS and JavaScript because i am interested in Automation
 - 💞️ I’m looking to collaborate on small projects and my own QA project to learn and automate
 - 📫 How to reach me : mail
-- ⚡ Fun fact: -
+- ⚡ Fun fact: - 
 
 <!---
 FroehlingsdorfJonas/FroehlingsdorfJonas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
